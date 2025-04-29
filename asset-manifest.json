@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/potatochick-solution.github.io/sep-concept-binary/static/js/main.8509ffac.js",
-    "static/js/453.f4f221de.chunk.js": "/potatochick-solution.github.io/sep-concept-binary/static/js/453.f4f221de.chunk.js",
-    "index.html": "/potatochick-solution.github.io/sep-concept-binary/index.html",
-    "main.8509ffac.js.map": "/potatochick-solution.github.io/sep-concept-binary/static/js/main.8509ffac.js.map",
-    "453.f4f221de.chunk.js.map": "/potatochick-solution.github.io/sep-concept-binary/static/js/453.f4f221de.chunk.js.map"
+    "main.js": "/sep-concept-binary/static/js/main.c064de35.js",
+    "static/js/453.f4f221de.chunk.js": "/sep-concept-binary/static/js/453.f4f221de.chunk.js",
+    "index.html": "/sep-concept-binary/index.html",
+    "main.c064de35.js.map": "/sep-concept-binary/static/js/main.c064de35.js.map",
+    "453.f4f221de.chunk.js.map": "/sep-concept-binary/static/js/453.f4f221de.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.8509ffac.js"
+    "static/js/main.c064de35.js"
   ]
 }
