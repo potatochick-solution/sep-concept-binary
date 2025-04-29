@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/sep-concept-binary/static/js/main.783cfc4c.js",
+    "main.js": "/sep-concept-binary/static/js/main.bf8c7ecf.js",
     "static/js/453.f4f221de.chunk.js": "/sep-concept-binary/static/js/453.f4f221de.chunk.js",
     "index.html": "/sep-concept-binary/index.html",
-    "main.783cfc4c.js.map": "/sep-concept-binary/static/js/main.783cfc4c.js.map",
+    "main.bf8c7ecf.js.map": "/sep-concept-binary/static/js/main.bf8c7ecf.js.map",
     "453.f4f221de.chunk.js.map": "/sep-concept-binary/static/js/453.f4f221de.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.783cfc4c.js"
+    "static/js/main.bf8c7ecf.js"
   ]
 }
